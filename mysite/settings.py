@@ -25,7 +25,7 @@ SECRET_KEY = '=*lvv#ipi@ih&#-i_e(5qj4^xvin(acy8-q^nmstn=h43u^(nk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['13.115.107.51']
+ALLOWED_HOSTS = ['13.115.107.51','kondoeccafe.pythonanywhere.com']
 
 
 # Application definition
